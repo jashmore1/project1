@@ -1,2 +1,2 @@
 # project1
-A tst project
+A test project
